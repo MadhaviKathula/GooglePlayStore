@@ -1,4 +1,4 @@
-### Visualization Development Project
+**Visualization Development Project**
 
 In this project, I developed various visualization techniques to implement eight fundamental interaction methods:
 select, explore, reconfigure, encode, abstract, elaborate, filter, and connect. These methods enhance user engagement and facilitate deeper insights into the data. 
